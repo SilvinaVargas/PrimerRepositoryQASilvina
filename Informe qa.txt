@@ -1,2 +1,10 @@
 Primer linea
-Esto está escrito en Github
+Esto está escrito en GitHub
+git add .
+git pull origin main
+
+A la inversa,ahora pruebo enviar lo escrito a la nube 
+guardo
+git add .
+git commit -m 	"Commit para la nube"
+git push origin main 
